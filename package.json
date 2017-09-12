@@ -1,0 +1,22 @@
+{
+  "name": "react-iview",
+  "version": "1.0.0",
+  "description": "react ui view iview",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tongchuan/react-iview.git"
+  },
+  "keywords": [
+    "react-iview"
+  ],
+  "author": "zhangtongchuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tongchuan/react-iview/issues"
+  },
+  "homepage": "https://github.com/tongchuan/react-iview#readme"
+}
