@@ -2,9 +2,10 @@
   "name": "react-iview",
   "version": "1.0.6",
   "description": "react ui view iview",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": " node lib/index.js",
+    "build": "node lib/index.js",
     "release": "release"
   },
   "repository": {
