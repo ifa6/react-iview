@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "test": " node lib/index.js",
-    "build": "node lib/index.js",
+    "build": "webpack --bail",
     "release": "release"
   },
   "repository": {
@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/tongchuan/react-iview#readme",
   "devDependencies": {
-    "release-script": "^1.0.2"
+    "release-script": "^1.0.2",
+    "webpack": "^3.5.6"
   },
   "files": [
     "CHANGELOG.md",
