@@ -4,7 +4,7 @@
   "description": "react ui view iview",
   "main": "index.js",
   "scripts": {
-    "test": "npm run dev",
+    "test": " node lib/index.js",
     "release": "release"
   },
   "repository": {
